@@ -1,2 +1,2 @@
 # scriptplay.co.nz
-Script game
+Multiplayer interactive script game
